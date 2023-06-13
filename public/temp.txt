@@ -1,0 +1,1 @@
+    https://api.openweathermap.org/data/2.5/weather?q=indore&appid=76b95ec04f20f57197b9fc09d9080216
